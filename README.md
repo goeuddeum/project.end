@@ -1,5 +1,5 @@
 # 프로젝트 이름
-##신호등
+## 신호등
 ![ㅁㅁ](https://user-images.githubusercontent.com/125548154/235044752-19763726-fa39-46f9-94ab-a249009a5dcf.jpg)
 
 
